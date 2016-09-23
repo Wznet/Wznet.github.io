@@ -1,0 +1,15 @@
+
+.navbar-brand {
+	width: 300px;
+	background-image: url("/images/nav_logo.png") !important;
+	background-repeat: no-repeat !important;
+	background-size: 199px auto !important;
+	text-indent:-99999px;
+}
+
+.wzmain {
+	background: #333 url(../images/slide_1.jpg) no-repeat center;
+	background-size: cover;
+	padding: 270px 0px;
+	position: relative;
+	}
